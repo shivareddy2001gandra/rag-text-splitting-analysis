@@ -6,6 +6,4 @@ faiss_index3/
 .env
 venv/
 __pycache__/
-faiss_index2/
-faiss_index3/
-faiss_index4/
+
